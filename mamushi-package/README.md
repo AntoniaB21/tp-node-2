@@ -1,1 +1,1 @@
-My first NodeJS Package
+My first NodeJS Package : mamushi-package
