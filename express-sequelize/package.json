@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "express": "^4.17.2",
+    "express-joi-validation": "^5.0.1",
     "sequelize": "^6.12.5",
     "sqlite3": "^5.0.2"
   }
